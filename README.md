@@ -8,6 +8,7 @@ paper title: Low-Complexity Acoustic Echo Cancellation with Neural Kalman Filter
 链接：https://arxiv.org/abs/2207.11388  
 作者：Dong Yang,Fei Jiang,Wei Wu,Xuefei Fang,Muyong Cao  
 项目主页：https://fjiang9.github.io/NKF-AEC/  
+github主页： https://github.com/fjiang9/NKF-AEC  
 
 ### 2022-5-31
 paper title: Personalized Acoustic Echo Cancellation for Full-duplex Communications  
