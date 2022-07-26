@@ -2,6 +2,13 @@
 记录关于AEC的论文和代码、博客以及相关资料
 ## Papers
 
+### 2022-7-26
+paper title: Low-Complexity Acoustic Echo Cancellation with Neural Kalman Filtering  
+标题： 基于神经卡尔曼滤波的低复杂度声回波对消  
+链接：https://arxiv.org/abs/2207.11388  
+作者：Dong Yang,Fei Jiang,Wei Wu,Xuefei Fang,Muyong Cao  
+项目主页：https://fjiang9.github.io/NKF-AEC/  
+
 ### 2022-5-31
 paper title: Personalized Acoustic Echo Cancellation for Full-duplex Communications  
 标题：用于全双工通信的个性化声学回波消除  
